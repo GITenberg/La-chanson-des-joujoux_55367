@@ -1,10 +1,13 @@
 _repo: La-chanson-des-joujoux_55367
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Adrien, Marie
     gutenberg_agent_id: '48306'
     url: http://www.gutenberg.org/2009/agents/48306
+covers:
+- cover_type: archival
+  image_path: 55367-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Claudius, Blanc
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '48305'
     url: http://www.gutenberg.org/2009/agents/48305
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55367#La-chanson-des-joujoux
 gutenberg_bookshelf:
 - FR Chansons
 - FR Illustrateurs
