@@ -1,0 +1,34 @@
+_repo: La-chanson-des-joujoux_55367
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Adrien, Marie
+    gutenberg_agent_id: '48306'
+    url: http://www.gutenberg.org/2009/agents/48306
+creator:
+  authors:
+  - agent_name: Claudius, Blanc
+    gutenberg_agent_id: '48304'
+    url: http://www.gutenberg.org/2009/agents/48304
+  - agent_name: Jules, Jouy
+    gutenberg_agent_id: '48303'
+    url: http://www.gutenberg.org/2009/agents/48303
+  - agent_name: Léopold, Dauphin
+    gutenberg_agent_id: '48305'
+    url: http://www.gutenberg.org/2009/agents/48305
+description: ''
+gutenberg_bookshelf:
+- FR Chansons
+- FR Illustrateurs
+gutenberg_issued: '2017-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55367'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La chanson des joujoux
+url: http://www.gutenberg.org/ebooks/55367
